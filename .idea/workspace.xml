@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b8f8b85a-a31c-44ff-afea-1303476da4cb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y5GXkKUSvMyEo4ddeqDayldJKw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bank_system/operation" />
+      <recent name="$PROJECT_DIR$/bank_system/models" />
+      <recent name="$PROJECT_DIR$/bank_system" />
+      <recent name="$PROJECT_DIR$/bank_system/user" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Pyramid server.bank_system">
+    <configuration name="bank_system" type="Python.PyramidServer" factoryName="Pyramid server">
+      <module name="bank_system" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="CONFIGURATION_FILE" value="$PROJECT_DIR$/development.ini" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests in setup.py" type="tests" factoryName="Unittests">
+      <module name="bank_system" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/setup.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8f8b85a-a31c-44ff-afea-1303476da4cb" name="Default Changelist" comment="" />
+      <created>1582225083279</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582225083279</updated>
+      <workItem from="1582225088714" duration="7588000" />
+      <workItem from="1582261799330" duration="2661000" />
+      <workItem from="1582280451800" duration="9192000" />
+      <workItem from="1582298412369" duration="5154000" />
+      <workItem from="1582442934426" duration="9604000" />
+      <workItem from="1582467795295" duration="3504000" />
+      <workItem from="1582472086728" duration="12328000" />
+      <workItem from="1582522121357" duration="4327000" />
+      <workItem from="1582534854572" duration="2969000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1170" y="220" width="530" height="596" key="FileChooserDialogImpl" timestamp="1582229808131">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1170" y="220" width="530" height="596" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1582229808131" />
+    <state x="681" y="67" key="SettingsEditor" timestamp="1582443064900">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="681" y="67" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1582443064900" />
+    <state x="556" y="320" key="com.intellij.ide.util.TipDialog" timestamp="1582534855663">
+      <screen x="0" y="0" width="1880" height="1080" />
+    </state>
+    <state x="556" y="320" key="com.intellij.ide.util.TipDialog/0.0.1880.1080@0.0.1880.1080" timestamp="1582534855663" />
+    <state x="568" y="308" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582472087087" />
+    <state x="1159" y="143" width="503" height="790" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1582536169817">
+      <screen x="0" y="0" width="1880" height="1080" />
+    </state>
+    <state x="1159" y="143" width="503" height="790" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1880.1080@0.0.1880.1080" timestamp="1582536169817" />
+    <state x="1184" y="138" width="503" height="760" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1582483021396" />
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1582302124335">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1582302124335" />
+  </component>
+</project>

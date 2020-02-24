@@ -1,3 +1,3 @@
 [run]
-source = pyramid
-omit = pyramid/test*
+source = bank_system
+omit = bank_system/test*

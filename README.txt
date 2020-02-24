@@ -1,4 +1,4 @@
-Pyramid README
+bank_system README
 ==================
 
 Getting Started

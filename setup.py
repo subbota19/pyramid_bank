@@ -13,17 +13,19 @@ requires = [
     'pyramid_jinja2',
     'pyramid_debugtoolbar',
     'waitress',
-    ]
+    'sqlalchemy'
+
+]
 
 tests_require = [
     'WebTest >= 1.3.1',  # py3 compat
     'pytest',  # includes virtualenv
     'pytest-cov',
-    ]
+]
 
-setup(name='Pyramid',
+setup(name='bank_system',
       version='0.0',
-      description='Pyramid',
+      description='bank_system',
       long_description=README + '\n\n' + CHANGES,
       classifiers=[
           "Programming Language :: Python",
@@ -44,6 +46,6 @@ setup(name='Pyramid',
       install_requires=requires,
       entry_points="""\
       [paste.app_factory]
-      main = pyramid:main
+      main = bank_system:main
       """,
       )

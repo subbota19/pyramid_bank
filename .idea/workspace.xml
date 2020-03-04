@@ -2,36 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8f8b85a-a31c-44ff-afea-1303476da4cb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bank_system/transaction/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_system/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_system/admin/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/bank_system/model/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_system/admin/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_system/admin/routes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_system/admin/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_system/bank/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/bank_system/bank/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_system/bank/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_system/bank/routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/bank_system/bank/routes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_system/bank/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/bank_system/bank/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_system/card/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/bank_system/card/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_system/card/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_system/card/routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/bank_system/card/routes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_system/card/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/bank_system/card/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_system/client/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/bank_system/client/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_system/client/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_system/client/routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/bank_system/client/routes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_system/client/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/bank_system/client/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_system/models/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_system/models/association_models.py" beforeDir="false" afterPath="$PROJECT_DIR$/bank_system/model/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_system/models/meta.py" beforeDir="false" afterPath="$PROJECT_DIR$/bank_system/model/meta.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_system/models/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_system/operation/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/bank_system/operation/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_system/operation/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_system/operation/routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/bank_system/operation/routes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_system/operation/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/bank_system/operation/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_system/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_system/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/development.ini" beforeDir="false" afterPath="$PROJECT_DIR$/development.ini" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -258,6 +229,7 @@
       <workItem from="1583154166418" duration="8231000" />
       <workItem from="1583164107775" duration="6062000" />
       <workItem from="1583182235022" duration="1737000" />
+      <workItem from="1583224884537" duration="34000" />
     </task>
     <servers />
   </component>
@@ -297,10 +269,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="681" y="67" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1582443064900" />
-    <state x="556" y="320" key="com.intellij.ide.util.TipDialog" timestamp="1583182348511">
+    <state x="556" y="320" key="com.intellij.ide.util.TipDialog" timestamp="1583224888974">
       <screen x="0" y="0" width="1880" height="1080" />
     </state>
-    <state x="556" y="320" key="com.intellij.ide.util.TipDialog/0.0.1880.1080@0.0.1880.1080" timestamp="1583182348511" />
+    <state x="556" y="320" key="com.intellij.ide.util.TipDialog/0.0.1880.1080@0.0.1880.1080" timestamp="1583224888974" />
     <state x="568" y="308" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582472087087" />
     <state x="1159" y="143" width="503" height="790" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583183847087">
       <screen x="0" y="0" width="1880" height="1080" />
